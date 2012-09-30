@@ -1,0 +1,8 @@
+{
+	"sublimelinter": "false",
+	"sublimelinter_popup_errors_on_save": true,
+	"jshint_options":
+    {
+        "es5": true
+    }
+}

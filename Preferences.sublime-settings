@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
+	"font_size": 14.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Tag",
+		"PHPUnit"
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
