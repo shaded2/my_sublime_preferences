@@ -1,5 +1,9 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	// "theme": "predawn.sublime-theme",
+	// "color_scheme": "Packages/Predawn/predawn.tmTheme",
+	// "tabs_small": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"color_scheme": "Packages/User/Twilight (SL).tmTheme",
 	"font_size": 14.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -9,8 +13,10 @@
 	"soda_classic_tabs": true,
 	"soda_folder_icons": false,
 	"sublimelinter_popup_errors_on_save": true,
-	//"theme": "Soda Dark.sublime-theme",
+	"tab_size": 2,
 	"trailing_spaces_enabled": true,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
+
 }

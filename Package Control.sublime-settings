@@ -1,6 +1,14 @@
 {
 	"installed_packages":
 	[
-		"Git"
+		"Emmet",
+		"Git",
+		"Predawn",
+		"Pretty JSON",
+		"RubyTest",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Soda"
 	]
 }

@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+	{ "keys": ["super+shift+h"], "command": "goto_documentation"},
+
+	// move left and right
+	{ "keys": ["ctrl+super+right"], "command": "indent" },
+	{ "keys": ["ctrl+super+left"], "command": "unindent" }
+]
